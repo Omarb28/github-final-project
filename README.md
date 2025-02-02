@@ -9,9 +9,8 @@ Input:
    p, principal amount
    t, time period in years
    r, annual rate of interest
-
-Output:
+Output
    simple interest = p*t*r
 ```
 
-© *2025 XYZ, Inc.*
+_© 2025 XYZ, Inc._
